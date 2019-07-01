@@ -12,7 +12,10 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Suggests: 
-    testthat (>= 2.1.0)
+    testthat (>= 2.1.0),
+    covr
 URL: https://github.com/DavisVaughan/testtravis
 BugReports: https://github.com/DavisVaughan/testtravis/issues
 RoxygenNote: 6.1.1
+Depends: 
+    R (>= 3.2)

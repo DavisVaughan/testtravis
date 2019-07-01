@@ -3,3 +3,5 @@
 ^\.travis\.yml$
 ^README\.Rmd$
 ^LICENSE\.md$
+^codecov\.yml$
+^\.covrignore$
